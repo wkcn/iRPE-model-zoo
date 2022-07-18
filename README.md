@@ -2,7 +2,7 @@
 
 Thanks for your attention to our work : )
 
-It is the model zoo about the ICCV 2021 paper [`Rethinking and Improving Relative Position Encoding for Vision Transformer`](https://houwenpeng.com/publications/iRPE.pdf).
+It is the model zoo about the ICCV 2021 paper [`Rethinking and Improving Relative Position Encoding for Vision Transformer`](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Rethinking_and_Improving_Relative_Position_Encoding_for_Vision_Transformer_ICCV_2021_paper.html).
 
 We release **the code** in the project [`microsoft/Cream`](https://github.com/microsoft/Cream/tree/main/iRPE).
 
